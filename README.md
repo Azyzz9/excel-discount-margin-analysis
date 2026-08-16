@@ -51,7 +51,7 @@ Every cleaning step is recorded and replayable. New data drops in, hit Refresh, 
 
 Twelve discount levels. Every level at or below 20% is profitable; every level above it loses money. This is not a gradual decline — it is a threshold.
 
-At the extreme, the 80% tier generated $16,964 in sales and **lost $30,539**. At −180% margin the company would have lost less money by giving the product away and not shipping it.
+At the extreme, the 80% tier generated $16,964 in sales and **lost $30,539** — a −180% margin, meaning $1.80 lost for every $1 sold. Simply not making those sales would haveleft the business $30,539 better off.
 
 ### 2. Every loss-making order in the dataset carried a discount
 

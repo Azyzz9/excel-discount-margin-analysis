@@ -23,6 +23,10 @@ This project asks one question: **at what discount level does the business stop 
 - **Excel** — PivotTables, calculated fields, PivotCharts, slicers, timeline
 - **Power Query** — repeatable cleaning pipeline: typed columns, removed unused fields, derived `Profit Margin` and `Discount Band`
 
+![Power Query pipeline](power-query-steps.png)
+
+Every cleaning step is recorded and replayable. New data drops in, hit Refresh, and the entire dashboard rebuilds — no manual rework.
+
 ---
 
 ## Data Source

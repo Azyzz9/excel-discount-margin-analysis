@@ -55,9 +55,13 @@ At the extreme, the 80% tier generated $16,964 in sales and **lost $30,539**. At
 
 ### 2. Every loss-making order in the dataset carried a discount
 
-Of 9,994 orders, 1,871 were sold at a loss. **All 1,871 were discounted. Not a single full-price order lost money.**
+Of 9,994 orders, 1,871 were sold at a loss — and **every single one of them was discounted.**
 
-Discounting is not one contributing factor among several. In this dataset it is the only mechanism by which an order becomes unprofitable.
+- **36%** of discounted orders lose money (1,871 of 5,196)
+- **0%** of full-price orders lose money (0 of 4,798)
+
+Discounting isn't one contributing factor among several. In this dataset it is the only
+mechanism by which an order becomes unprofitable.
 
 ### 3. The loss zone is small in volume and large in impact
 
